@@ -12,7 +12,7 @@ gem 'twitter'
 #bootstrap di twitter
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
-gem 'bootstrap-sass', '~>3.2.0.0'
+gem 'bootstrap-sass', '~>3.4.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
